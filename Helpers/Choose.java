@@ -8,7 +8,8 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
 
-@Data
+@Data 
+
 @AllArgsConstructor
 @RequiredArgsConstructor
 public class Choose implements Serializable {
